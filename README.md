@@ -1,7 +1,5 @@
-# Spring boot and React js fullstack application Part(1/2).
-Full stack application with Spring boot and React js, with **WEBPACK & BABEL. JUNIT Tests , RESTful API.**
 
-### Show some :heart: and :star: the repo to support the project 
+Full stack application 
 
 I like explaining things in code so without wasting much of your time lets just jump straight in and i will be explaining as we go.
 
